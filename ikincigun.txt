@@ -4,3 +4,5 @@ git githup 2. gün  ucuncu deneme
 git github ikinci gun HULYA Branch
 git github ikinci gun Master Branch
 git githup 3. gün  ilk deneme
+git githup 3. gün  ikinci deneme
+
